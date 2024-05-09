@@ -1,0 +1,27 @@
+.head {
+    color:green;
+    font-size: larger;
+    font-weight: bold;
+text-align: center;
+margin-top: 20px;
+}
+.title {
+    
+   width: 50%;
+   /* background-color: aqua; */
+}
+title > h1 {
+
+    font-weight: bold;
+}
+.c{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn{
+    margin-right: 10px;
+    background-color: lightblue;
+    border: 2px solid;
+}
